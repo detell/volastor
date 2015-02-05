@@ -1,0 +1,26 @@
+{
+  "name": "volastor",
+  "title": "Volatile Storage",
+  "id": "jid1-HJdxuTX3r6jusg",
+  "description": "Allows you to clear Local Storage, manually or when Firefox starts up and exits.",
+  "author": "detell",
+  "homepage": "https://github.com/detell/volastor",
+  "icon": "data/icon-32.png",
+  "license": "MPL 2.0",
+  "version": "0.5",
+
+  "preferences": [
+    {
+      "name": "clearLsOnStartup",
+      "title": "Clear Local Storage when Firefox starts up",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "name": "clearLsOnShutdown",
+      "title": "Clear Local Storage when Firefox exits",
+      "type": "bool",
+      "value": false
+    }
+  ]
+}
