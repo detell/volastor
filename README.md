@@ -14,4 +14,4 @@ Please report issues to the tracker: https://github.com/detell/volastor/issues
 
 1. Install Mozilla Add-On SDK as described [here](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation). On Windows, [download/install Python 2.7](https://www.python.org/download), then extract the SDK anywhere.
 2. Clone git repository and open command prompt there.
-3. Run `cfx run` or `cfx xpi`. The main code is in lib/main.js.
+3. Run `cfx run` or `cfx xpi`. The main code is in `lib/main.js`.
